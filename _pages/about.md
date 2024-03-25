@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: “Xiaoyi Ye (叶晓艺)
+title: "Xiaoyi Ye (叶晓艺)"
 author_profile: true
 redirect_from: 
   - /about/
