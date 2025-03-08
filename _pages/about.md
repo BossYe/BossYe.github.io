@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a master's student in [School of Computer Science and Technology](http://www.cs.xjtu.edu.cn/) at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). I am very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining XJTU, I obtained a bachelor's degree from [School of Computer Science and Artificial Intelligence](http://cst.whut.edu.cn/), [WuHan University of Technology](https://www.whut.edu.cn/) in 2023. My research interests mainly lie in computer architecture, especially, the operator optimization and FPGA/ASIC hardware acceleration for Zero-Knowledge Proofs (zkSTARK), Fully Homomorphic Encryption (TFHE), and Post-Quantum Key Exchange (Kyber). Here is my [简历](../files/Chinese%20CV.pdf)
+I am now a master's student in [School of Computer Science and Technology](http://www.cs.xjtu.edu.cn/) at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). I am very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining XJTU, I obtained a bachelor's degree from [School of Computer Science and Artificial Intelligence](http://cst.whut.edu.cn/), [WuHan University of Technology](https://www.whut.edu.cn/) in 2023. My research interests mainly lie in computer architecture, especially, the operator optimization and FPGA/ASIC hardware acceleration for Zero-Knowledge Proofs (zkSTARK), Fully Homomorphic Encryption (TFHE), and Post-Quantum Key Exchange (Kyber). Here is my [CV](../files/Chinese%20CV.pdf).
 
 ## Publications
 * **HyFI: A Bitwidth-Flexible Integer Multiplier Using Hybrid Decomposition (Under review)**  
