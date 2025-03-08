@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am now a master's student in [School of Computer Science and Technology](http://www.cs.xjtu.edu.cn/) at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). I am very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining XJTU, I obtained a bachelor's degree from [School of Computer Science and Artificial Intelligence](http://cst.whut.edu.cn/), [WuHan University of Technology](https://www.whut.edu.cn/) in 2023. My research interests mainly lie in computer architecture, especially, the operator optimization and FPGA/ASIC hardware acceleration for Zero-Knowledge Proofs (zkSTARK), Fully Homomorphic Encryption (TFHE), and Post-Quantum Key Exchange (Kyber).
+I am now a master's student in [School of Computer Science and Technology](http://www.cs.xjtu.edu.cn/) at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). I am very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining XJTU, I obtained a bachelor's degree from [School of Computer Science and Artificial Intelligence](http://cst.whut.edu.cn/), [WuHan University of Technology](https://www.whut.edu.cn/) in 2023. My research interests mainly lie in computer architecture, especially, the operator optimization and FPGA/ASIC hardware acceleration for Zero-Knowledge Proofs (zkSTARK), Fully Homomorphic Encryption (TFHE), and Post-Quantum Key Exchange (Kyber). Here is my [简历](../files/Chinese%20CV.pdf)
 
 ## Publications
 * **HyFI: A Bitwidth-Flexible Integer Multiplier Using Hybrid Decomposition (Under review)**  
   **Xiaoyi Ye**, Cheng Wang and Mingyu Gao
-
 
 * **Computation Acceleration Method for Gene Sequence Assembly Algorithm Based on FPGA**  
   Xing Liu and Minjie Zhang and Chenran Cai and **Xiaoyi Ye**  
@@ -30,9 +29,8 @@ I am now a master's student in [School of Computer Science and Technology](http:
   AI Algorithm Design and Application Development Intern. Jul 2022 - Aug 2022.
 
 
-
 ## Honors and Awards
-
+* First-Class Academic Scholarship (一等学业奖学金), 2024.
 * Outstanding Undergraduate Graduate (优秀本科毕业生), 2023.
 * The Second Prize of the 15th Chinese Collegiate Computing Competition (第十五届中国大学生计算机设计大赛), 2022.
 * The Third Prize of the 13th Competition of Service Outsourcing and Entrepreneurship Innovation (第十三届中国大学生服务外包创新创业大赛), 2022.
