@@ -7,11 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am now a master's student in [School of Computer Science and Technology](http://www.cs.xjtu.edu.cn/) at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). I am very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining XJTU, I obtained a bachelor's degree from [School of Computer Science and Artificial Intelligence](http://cst.whut.edu.cn/), [WuHan University of Technology](https://www.whut.edu.cn/) in 2023. My research interests mainly lie in computer architecture, especially, the hardware acceleration, including homomorphic encryption algorithm and operator accelerator.
+I am now a master's student in [School of Computer Science and Technology](http://www.cs.xjtu.edu.cn/) at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). I am very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining XJTU, I obtained a bachelor's degree from [School of Computer Science and Artificial Intelligence](http://cst.whut.edu.cn/), [WuHan University of Technology](https://www.whut.edu.cn/) in 2023. My research interests mainly lie in computer architecture, especially, the operator optimization and FPGA/ASIC hardware acceleration for Zero-Knowledge Proofs (zkSTARK), Fully Homomorphic Encryption (TFHE), and Post-Quantum Key Exchange (Kyber).
 
 ## Publications
+* **HyFI: A Bitwidth-Flexible Integer Multiplier Using Hybrid Decomposition (Under review)**  
+  **Xiaoyi Ye**, Cheng Wang and Mingyu Gao
 
 
+* **Computation Acceleration Method for Gene Sequence Assembly Algorithm Based on FPGA**  
+  Xing Liu and Minjie Zhang and Chenran Cai and **Xiaoyi Ye**  
+  Patent: CN113012760A 2021
 
 ## Education
 
@@ -21,8 +26,8 @@ I am now a master's student in [School of Computer Science and Technology](http:
   - B.Eng. in artificial intelligence at [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/). Rank: 6/69. Sep 2019 - Jun 2023.  
 
 ## Experiences
-
-
+* **Ningbo Chinasoft Excellence Co., Ltd.**  
+  AI Algorithm Design and Application Development Intern. Jul 2022 - Aug 2022.
 
 
 
